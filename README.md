@@ -1,11 +1,11 @@
-<FIGURE TITLE>
+FIGURE TITLE
 ====================================
 [![DOI](https://zenodo.org/badge/DOI/YOUR_ZENODO_DOI.svg)](https://doi.org/YOUR_ZENODO_DOI)
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![GitHub release](https://img.shields.io/github/v/release/YOUR_ORG/YOUR_REPO?logo=github)
 
 Figure number: <eg: Figure 3.4>  
-From the IPCC Working Group I Contribution to the Seventh Assessment Report: Chapter <X>
+From the IPCC Working Group I Contribution to the Seventh Assessment Report: Chapter X
 
 ![Figure caption](/figure/YOUR_IMAGE_FILENAME.png?raw=true)
 
@@ -94,7 +94,7 @@ Use APA-style references with DOI links where possible.
 If you use this repository or any of its contents in your work, please cite it appropriately.
 
 ### Repository Citation
-🟡 This repository includes a `CITATION.cff` file for citation. You can generate a citation in your preferred format using:
+This repository includes a `CITATION.cff` file for citation. You can generate a citation in your preferred format using:
 
 ```bash
 cffconvert --format bibtex
@@ -118,7 +118,7 @@ Provide a full citation of the IPCC report chapter containing the figure, includ
 Please note that figures in this repository may differ from those in the published version due to the editorial process. The repository contains the latest available versions prior to publication.
 
 
-# Checklist Before Finalizing (delete when you complete the README.md)
+# 🟡Checklist Before Finalizing (delete when you complete the README.md)
 
 - Updated title and badges
 

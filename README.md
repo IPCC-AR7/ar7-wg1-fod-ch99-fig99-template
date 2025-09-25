@@ -8,7 +8,7 @@ Figure number: <eg: Figure 3.4>
 From the IPCC Working Group I Contribution to the Seventh Assessment Report: Chapter X
 
 ![Figure caption](/figure/YOUR_IMAGE_FILENAME.png?raw=true)
-
+![Figure caption](/figure/ar6_wg1_chap3_figure3_4_surface_temp_anomaly.png?raw=true)
 
 ## Contents
 

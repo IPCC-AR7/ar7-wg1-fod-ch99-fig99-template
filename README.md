@@ -4,10 +4,13 @@ FIGURE TITLE
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![GitHub release](https://img.shields.io/github/v/release/YOUR_ORG/YOUR_REPO?logo=github)
 
-Figure number: <eg: Figure 3.4>  
+Figure X.X  
 From the IPCC Working Group I Contribution to the Seventh Assessment Report: Chapter X
-
 ![Figure caption](/figure/YOUR_IMAGE_FILENAME.png?raw=true)
+
+Example: 
+Figure 3.4
+From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
 ![Figure caption](/figure/ar6_wg1_chap3_figure3_4_surface_temp_anomaly.png?raw=true)
 
 ## Contents

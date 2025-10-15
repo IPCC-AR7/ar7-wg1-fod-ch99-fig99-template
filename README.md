@@ -16,7 +16,6 @@ From the IPCC Working Group I Contribution to the Seventh Assessment Report: Cha
 - [Description](#description)
 - [Installation](#installation)
 - [Expected image path](#expected-image-path)
-- [Publication sources](#publication-sources)
 - [How to cite](#how-to-cite) 
   - [Figure Citation](#figure-citation)
   - [Repository Citation](#repository-citation)
@@ -77,18 +76,6 @@ example:
 - recipe_ipccwg1ar6ch3_atmosphere_YYYYMMDD_HHMMSS/plots/fig_3_4_collect/collect/gsat_Global_multimodel_anom_1850-2020.eps
 
 
-## Publication sources
-
-List scientific publications related to the figure, including those describing:
-
-- The methodology
-
-- The datasets
-
-- The tool used to generate the figure
-
-Use APA-style references with DOI links where possible.
-
 ## How to cite
 
 If you use this repository or any of its contents in your work, please cite it appropriately.
@@ -103,15 +90,7 @@ cffconvert --format bibtex
 ### Figure Citation
 If you use Figure <figure number eg 3.4> from the IPCC report included in this repository, please cite it as:
 
-Provide a full citation of the IPCC report chapter containing the figure, including:
-
-- Chapter authors
-
-- Editors
-
-- Title and page numbers
-
-- DOI
+Provide a full citation of the IPCC report chapter containing the figure, according to the IPCC editorial citation rules.
 
 
 ## Disclaimer
